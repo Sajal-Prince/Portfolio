@@ -1,0 +1,37 @@
+h1{
+    color: rgb(6, 255, 255);
+}
+
+h2{
+    color: rebeccapurple;
+}
+
+*{
+    border: solid;
+}
+
+.header{
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content:space-between;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: cornflowerblue;
+}
+
+.game{
+    background-color: cyan;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+p{
+    color: rgb(241, 2, 2);
+}
